@@ -1,13 +1,16 @@
-This is just a random code
+#This is just a random code
 
 
-Hiiii
+#Hiiii
 
 
-checking more stuff
+#checking more stuff
 
 
 #pulling in more data random.
 
 
 #Testing
+
+
+#making this file more descriptive
